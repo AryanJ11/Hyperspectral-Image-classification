@@ -44,3 +44,8 @@ Following are the ground truth and predicted images along with the color coding 
 ![Alt text](Images/org.png?raw=true "Title")
 
 ![Alt text](Images/tar.png?raw=true "Title")
+
+![Alt text](Images/legends.png?raw=true "Title")
+
+## Note
+This project is based upon the research paper: _"Z. Xue, X. Yu, B. Liu, X. Tan and X. Wei, "HResNetAM: Hierarchical Residual Network With Attention Mechanism for Hyperspectral Image Classification," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 14, pp. 3566-3580, 2021, doi: 10.1109/JSTARS.2021.3065987"_
