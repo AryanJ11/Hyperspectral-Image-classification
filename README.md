@@ -26,10 +26,10 @@ The _HresNet_ part of the architectures is same for both. It makes use of residu
 The input 3D image is first split into the desired number of scales(feature maps) which in this case has been set to 4. Mathematically speaking,
 
 y_i=[\
-      x_i              i=1;\
-      K_i(x_i)         i=2;\
-      K_i(x_i+y_(i-1)) otherwise\
-    ]
+    &nbsp;x_i &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i=1;\
+    &nbsp;K_i(x_i)&nbsp;&nbsp;&nbsp;&nbsp;i=2;\
+    &nbsp;K_i(x_i+y_(i-1))&nbsp;&nbsp;otherwise\
+&nbsp; &nbsp; ]
 
 where K_i(.) is a convolutional block for input x_i giving output y_i.
 
